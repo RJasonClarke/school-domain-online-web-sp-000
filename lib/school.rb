@@ -1,5 +1,6 @@
 class School
-  @@school = gets
+  def initialize(name)
+  end
 end
 
 
