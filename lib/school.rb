@@ -1,4 +1,4 @@
 class School
 end
 
-school = School.new("Test School")
+@school = School.new("Test School")
