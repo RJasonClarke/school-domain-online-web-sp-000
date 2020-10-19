@@ -1,5 +1,5 @@
 class School
   def initialize(name)
-    roster = 0
+    school.roster.length = 0
   end
 end
